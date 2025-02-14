@@ -1,5 +1,12 @@
 # ProjetPirate
 
+Ce projet est une projet universitaire qui vise à développer un jeu de type "jeu de l'oie" avec des pirates.
+Vous retrouverez toutes les caractéristiques du "jeu de l'oie" : 
+un plateau, 2 joueurs, des bonus, des malus, un lancé de dé mais aussi une barre de vie propore à chaque joueur.
+Le jeu est décomposé en 2 pages : le menu de sélection des joueurs et la plateau de jeu.
+
+---
+
 - Diallo Mariama / dialloBobo: responsable des spécifications
 - Gabernet Louis / Louiiiiiiis : chef de projet
 - Grezit Gabriel / GabGRZT : responsable développement IHM
